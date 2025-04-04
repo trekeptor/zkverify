@@ -21,7 +21,7 @@ There are currently two recommended wallet options -  Talisman and SubWallet. We
 
 Before we startIf you are using Mac or Linux, feel free to skip this section and directly jump onto the ‘Clone Repository’ section. But in case you are using Windows, you need to install Windows subsystem for Linux (or WSL). You can do so by using the simple command:
 <pre>wsl --install</pre>
-<pre>git clone https://github.com/0xmetaschool/zkverify-proofverification.git</pre>
+<pre>git clone https://github.com/trekeptor/zkverify.git</pre>
 <pre>cd zkverify-proofverification</pre>
 <pre>npm install -g snarkjs@latest</pre>
 <pre>curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh</pre>
