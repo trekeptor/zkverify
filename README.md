@@ -14,7 +14,7 @@ There are currently two recommended wallet options -  Talisman and SubWallet. We
 - Once that is done, congratulations!!! You have successfully set up your wallet!!
 
 # Get $ACME zkVerify testnet tokens
-- To get testnet $ACME token:Go to zkVerify Test Token Faucet.
+- To get testnet $ACME token: Go to zkVerify Test Token Faucet https://www.zkay.io/faucet 
 - Connect your wallet and click on "Claim Token", you should be able to receive $ACME.
 
 # Proof Submission Tutorial
